@@ -1,0 +1,21 @@
+// ---------------- 1. vars -----------------
+
+@import 'settings/vars';
+
+// ---------------- 2. fonts ----------------
+
+@import 'mixins/font-face';
+@import 'settings/fonts';
+
+// ---------------- 3. reset styles ---------
+
+@import 'settings/reset';
+
+// ---------------- 4. mixins ---------------
+
+@import 'mixins/breakpoints';
+@import 'mixins/styles';
+
+
+
+
